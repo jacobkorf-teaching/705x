@@ -5,5 +5,14 @@ public class prog705x {
         for(int x = 0; x < 5; x++) {
             System.out.println(x);
         }
+        for(int x = 0; x < 5; x++) {
+            System.out.println(x);
+        }
+        for(int x = 0; x < 5; x++) {
+            System.out.println(x);
+        }
+        for(int x = 0; x < 5; x++) {
+            System.out.println(x);
+        }
     }
 }
